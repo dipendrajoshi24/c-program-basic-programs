@@ -1,6 +1,6 @@
 # Basic C Programming Questions & Solutions  
 
-This repository contains solutions to common C programming questions, ranging from beginner to intermediate levels. It serves as a reference for students and beginners learning C.
+This repository contains solutions to common C programming questions, ranging from beginner to intermediate levels.  
 
 ##  Topics Covered  
 - **Basic Syntax** (Hello World, Input/Output)  
