@@ -12,5 +12,3 @@ This repository contains solutions to common C programming questions, ranging fr
 - **Strings** (String Functions, Manipulation)  
 - **Structures & Unions**  
 - **File Handling** (Read/Write Operations)  
-
-  Author- Dipendra Joshi
