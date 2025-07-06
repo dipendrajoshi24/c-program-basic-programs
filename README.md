@@ -4,7 +4,7 @@ This repository contains solutions to common C programming questions, ranging fr
 
 ## Topics Covered
   
-- **Basic Syntax** (Hello World, Input/Output)  
+- **Basic Syntax**(Hello World, Input/Output)  
 - **Control Statements** (if-else, switch-case)  
 - **Loops** (for, while, do-while)  
 - **Functions** (User-defined, Recursion)  
